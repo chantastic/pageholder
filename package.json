@@ -1,0 +1,14 @@
+{
+  "name": "pageholder",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Michael Chan <mijoch@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^3.12.1"
+  }
+}
